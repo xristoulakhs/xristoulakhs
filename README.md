@@ -3,7 +3,7 @@
     👋 Hi, I’m xristoulakis.
     ℹ️ A passionate software developer interested in machine learning and artificial intelligence.
     📌 LinkedIn: www.linkedin.com/in/antonis-xristoulakis
-    📫 antonisxania55@gmail.com
+    📫 Email: antonisxania55@gmail.com
 
 <!--
 **xristoulakhs/xristoulakhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
