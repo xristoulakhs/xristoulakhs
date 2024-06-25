@@ -2,7 +2,7 @@
 
     👋 Hi, I’m xristoulakis.
      ℹ️  A passionate software developer interested in app developing, machine learning and artificial intelligence.
-    📌 LinkedIn: www.linkedin.com/in/antonis-xristoulakis
+    📌 LinkedIn: www.linkedin.com/in/antonis-christoulakis
     📫 Email: xrantonis@gmail.com
 
 <!--
