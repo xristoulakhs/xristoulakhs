@@ -1,7 +1,9 @@
 ### Hi there 👋
 
     👋 Hi, I’m xristoulakis.
-     ℹ️  A passionate software developer interested in app developing, machine learning and artificial intelligence.
+    ℹ️  A mobile app developer crafting sleek, high-performance apps for Android and iOS.
+    📱 Passionate about building seamless user experiences and bringing ideas to life through code.
+    🤖 Also curious about machine learning and AI – always exploring new tech.
     📌 LinkedIn: www.linkedin.com/in/antonis-christoulakis
     📫 Email: xrantonis@gmail.com
 
